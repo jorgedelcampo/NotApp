@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.notapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>NotApp!</name>
+    <description>
+        Simplemente otra aplicación de notas. Nada del otro mundo pero la amarás.
+    </description>
+    <author email="j.delcampo.a@gmail.com" href="https://www.arcos.cl">
+        Los mágicos de la Comunicación
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<icon src="icon.png" />
+</widget>
+
